@@ -10,12 +10,17 @@ Speaker / Community:
 10+ talks in developer communities. PHPVigo co organizer. VigoTech Alliance member. 
 
 
-### Follow or contact me on
+## Follow or contact me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sergiocarracedo/)](https://www.linkedin.com/in/sergiocarracedo/)
 [![Twitter Badge](https://img.shields.io/badge/-@sergiocarracedo-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sergiocarracedo)
 [![Personal blog](https://img.shields.io/badge/-sergiocarracedo.es-004262?style=flat-square&logo=Blogger&logoColor=white)](https://sergiocarracedo.es)
 
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiocarracedo.sergiocarracedo)
 
 ## ⚡ Technologies
 
@@ -40,8 +45,6 @@ Speaker / Community:
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
-
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiocarracedo.sergiocarracedo)
