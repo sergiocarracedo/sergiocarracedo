@@ -40,11 +40,3 @@ Speaker / Community:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-
-
-### Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiocarracedo.sergiocarracedo)
