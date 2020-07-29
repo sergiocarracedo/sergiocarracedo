@@ -40,9 +40,7 @@ Speaker / Community:
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
 
 
 
