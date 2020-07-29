@@ -14,15 +14,17 @@ Speaker / Community:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sergiocarracedo/)](https://www.linkedin.com/in/sergiocarracedo/)
 [![Twitter Badge](https://img.shields.io/badge/-@sergiocarracedo-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sergiocarracedo)
-[![Personal blog](https://img.shields.io/badge/-sergiocarracedo.es-green?style=flat-square&logo=Blogger&logoColor=white)](https://sergiocarracedo.es)
+[![Personal blog](https://img.shields.io/badge/-sergiocarracedo.es-004262?style=flat-square&logo=Blogger&logoColor=white)](https://sergiocarracedo.es)
 
 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vue.js)
+![Data Visualization](https://img.shields.io/badge/-Data+Visualization-#0678BE?style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Drupal](https://img.shields.io/badge/-Drupal-#0678BE?style=flat-square&logo=Drupal)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -33,7 +35,6 @@ Speaker / Community:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
 
