@@ -19,7 +19,9 @@ Speaker / Community:
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiocarracedo.sergiocarracedo)
 
 ## ⚡ Technologies
