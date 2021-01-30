@@ -26,9 +26,11 @@ I'm a Senior Fullstack Developer
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vue.js)
 ![Data Visualization](https://img.shields.io/badge/-Data+Visualization-0678BE?style=flat-square)
+![Go](https://img.shields.io/badge/-GO-white?style=flat-square&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=Drupal)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
