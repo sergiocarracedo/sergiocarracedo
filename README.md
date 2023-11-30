@@ -6,7 +6,7 @@ I'm a Senior Fullstack Developer
 
 **Back-end:** PHP, Symfony, Laravel, Drupal, Node.js, MySQL, Python.
 
-**Speaker / Community:** 10+ talks in developer communities. [PHPVigo](https://phpvigo.com/) co-organizer. VigoTech Alliance member. 
+**Speaker / Community:** 15+ talks in developer communities. ex [PHPVigo](https://phpvigo.com/) and [PulpoCon](https://pulpocon.es) co-organizer. VigoTech Alliance member. 
 
 
 ## Follow or contact me on
