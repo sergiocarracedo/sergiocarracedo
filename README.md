@@ -2,9 +2,9 @@
 
 I'm a Senior Fullstack Developer
 
-**Front-end:** Data Visualization for machine learning products, Vue.js, SCSS, HTML, proud creator of [SirenoGrid](https://github.com/sergiocarracedo/sireno-grid) a CSS Grid Layout framework.
+**Front-end:** Readt, Vue, Data Visualization for machine learning products, proud creator of [SirenoGrid](https://github.com/sergiocarracedo/sireno-grid) a CSS Grid Layout framework.
 
-**Back-end:** PHP, Symfony, Laravel, Drupal, Node.js, MySQL, Python.
+**Back-end:** Golanf, PHP, Symfony, Laravel, Drupal, Node.js, MySQL, Python.
 
 **Speaker / Community:** 15+ talks in developer communities. ex [PHPVigo](https://phpvigo.com/) and [PulpoCon](https://pulpocon.es) co-organizer. VigoTech Alliance member. 
 
