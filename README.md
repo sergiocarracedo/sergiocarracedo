@@ -44,5 +44,3 @@ I enjoy bridging the gap between software and the physical world.
 <a href="https://bsky.app/profile/sergiocarracedo.es"><img src="https://img.shields.io/badge/-Bluesky-0085ff?style=flat-square&logo=bluesky&logoColor=white" /></a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sergiocarracedo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocarracedo&layout=compact&theme=dark)
