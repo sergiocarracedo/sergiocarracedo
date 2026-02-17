@@ -34,6 +34,10 @@ I enjoy bridging the gap between software and the physical world.
 
 ## 📊 Connection & Stats
 
+<!-- GITHUB_STATS:START -->
+<!-- This section is auto-updated by GitHub Actions -->
+<!-- GITHUB_STATS:END -->
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sergiocarracedo/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://sergiocarracedo.es"><img src="https://img.shields.io/badge/-sergiocarracedo.es-004262?style=flat-square&logo=Astro&logoColor=white" /></a>

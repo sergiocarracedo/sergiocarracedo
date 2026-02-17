@@ -1,0 +1,26 @@
+{
+  "name": "github-profile-stats",
+  "version": "1.0.0",
+  "description": "Automated GitHub profile stats generator",
+  "type": "module",
+  "scripts": {
+    "update-stats": "tsx src/index.ts",
+    "test": "tsx src/index.ts"
+  },
+  "keywords": [
+    "github",
+    "stats",
+    "profile",
+    "automation"
+  ],
+  "author": "Sergio Carracedo",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/graphql": "^8.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
