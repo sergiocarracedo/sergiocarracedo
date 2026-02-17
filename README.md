@@ -2,7 +2,7 @@
 
 I'm a Senior Fullstack problem solver 
 
-**Front-end:** Readt, Vue, Data Visualization for machine learning products, proud creator of [SirenoGrid](https://github.com/sergiocarracedo/sireno-grid) a CSS Grid Layout framework.
+**Front-end:** React, Vue, Data Visualization for machine learning products, proud creator of [SirenoGrid](https://github.com/sergiocarracedo/sireno-grid) a CSS Grid Layout framework.
 
 **Back-end:** Golang, Typescript, PHP, Symfony, Laravel, Drupal, Node.js, MySQL, Python.
 
