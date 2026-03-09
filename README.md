@@ -15,6 +15,7 @@ I don't just chat with AI; I build systems that integrate it into the developmen
 - **[Sireno AI](https://sergiocarracedo.es/blog/sireno-ai-assistant/):** A browser extension that brings LLM-powered text correction and translation to any web form.
 - **Computer Vision:** Early PoC of webcam virtual backgrounds using **TensorFlow.js** (`tfjs-bodypix`).
 - **AI for CAD:** Using LLMs to assist in designing 3D-printed physical items.
+- **[Gym AI Trainer](https://github.com/sergiocarracedo/gym-ai-trainer):** AI-powered personal trainer that analyzes **Hevy** workout data to provide personalized training recommendations and progressive overload guidance.
 
 ## 🏗️ Design Systems & UX
 
