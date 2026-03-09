@@ -1,0 +1,23 @@
+README.md
+  602defc356c0ca75 13,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "406b4b3c03149e516f6bfcc7acb6515f7806b28d",
+  "prompts": {
+    "602defc356c0ca75": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_346c3c286ffeJOaNNxqCa8pGky",
+        "model": "anthropic/claude-sonnet-4-5"
+      },
+      "human_author": "Sergio Carracedo <hi@sergiocarracedo.es>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
