@@ -48,15 +48,15 @@ I enjoy bridging the gap between software and the physical world.
 ### 📈 GitHub Statistics
 
 ![Stars](https://img.shields.io/badge/Stars-58-4c8eda?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Repositories-100-2ea44f?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Repositories-102-2ea44f?style=for-the-badge&logo=github)
 ![Forks](https://img.shields.io/badge/Forks-12-f39c12?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-81-8e44ad?style=for-the-badge&logo=github)
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20TypeScript%2C%20JavaScript%2C%20MDX%2C%20Vue%2C%20...-e74c3c?style=for-the-badge&logo=github)
 
 ### 📊 Commit Activity (Last 12 Months)
-![Commit Activity](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22May%2025%22%2C%22Jun%2025%22%2C%22Jul%2025%22%2C%22Aug%2025%22%2C%22Sep%2025%22%2C%22Oct%2025%22%2C%22Nov%2025%22%2C%22Dec%2025%22%2C%22Jan%2026%22%2C%22Feb%2026%22%2C%22Mar%2026%22%2C%22Apr%2026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B235%2C272%2C171%2C128%2C237%2C208%2C175%2C240%2C220%2C298%2C267%2C163%5D%2C%22backgroundColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%200.8)%22%2C%22borderColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%201)%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commit%20Activity%20-%20Last%2012%20Months%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22ticks%22%3A%7B%22precision%22%3A0%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Number%20of%20Commits%22%7D%7D%2C%22x%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Month%22%7D%7D%7D%7D%7D&width=800&height=400&backgroundColor=white)
+![Commit Activity](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22May%2025%22%2C%22Jun%2025%22%2C%22Jul%2025%22%2C%22Aug%2025%22%2C%22Sep%2025%22%2C%22Oct%2025%22%2C%22Nov%2025%22%2C%22Dec%2025%22%2C%22Jan%2026%22%2C%22Feb%2026%22%2C%22Mar%2026%22%2C%22Apr%2026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B235%2C272%2C171%2C128%2C237%2C208%2C175%2C240%2C220%2C298%2C267%2C203%5D%2C%22backgroundColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%200.8)%22%2C%22borderColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%201)%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commit%20Activity%20-%20Last%2012%20Months%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22ticks%22%3A%7B%22precision%22%3A0%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Number%20of%20Commits%22%7D%7D%2C%22x%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Month%22%7D%7D%7D%7D%7D&width=800&height=400&backgroundColor=white)
 
-*Last updated: 2026-04-27 00:46:58 UTC*
+*Last updated: 2026-04-28 00:49:29 UTC*
 <!-- GITHUB_STATS:END -->
 
 <p align="left">
