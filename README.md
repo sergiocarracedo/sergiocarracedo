@@ -6,6 +6,10 @@ With 20+ years of experience—from my first **Amstrad CPC464** 🕹️ to build
 
 ---
 
+<p align="left">
+  <img src="./1771880748503.jpeg" alt="Sergio Carracedo" width="320" />
+</p>
+
 ## 🤖 AI & Innovation
 
 I don't just chat with AI; I build systems that integrate it into the development lifecycle.
