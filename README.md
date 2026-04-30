@@ -11,6 +11,7 @@ With 20+ years of experience—from my first **Amstrad CPC464** 🕹️ to build
 I don't just chat with AI; I build systems that integrate it into the development lifecycle.
 
 - **[storybook-to-skill-md](https://github.com/sergiocarracedo/storybook-to-skill-md):** Automatically generates AI agent skill files from **React/Vue** component stories, converting **Storybook** documentation into **LLM-ready** SKILL.md format. Includes CLI tool and **GitHub Action**.
+- **[skill-organizer](https://github.com/sergiocarracedo/skill-organizer):** A **Go** CLI that keeps `SKILL.md` directories organized in nested folders while generating flat, agent-compatible skill trees for tools like **Claude Code**, **Codex**, and **OpenCode**.
 - **[Work Diary](https://github.com/sergiocarracedo/work-diary):** An open-source CLI tool to automate daily work summaries using **Gemini/OpenAI** and GitHub activity.
 - **[Sireno AI](https://sergiocarracedo.es/blog/sireno-ai-assistant/):** A browser extension that brings LLM-powered text correction and translation to any web form.
 - **Computer Vision:** Early PoC of webcam virtual backgrounds using **TensorFlow.js** (`tfjs-bodypix`).
