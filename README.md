@@ -53,7 +53,7 @@ I enjoy bridging the gap between software and the physical world.
 ### 📈 GitHub Statistics
 
 ![Stars](https://img.shields.io/badge/Stars-76-4c8eda?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Repositories-105-2ea44f?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Repositories-106-2ea44f?style=for-the-badge&logo=github)
 ![Forks](https://img.shields.io/badge/Forks-14-f39c12?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-85-8e44ad?style=for-the-badge&logo=github)
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20TypeScript%2C%20JavaScript%2C%20MDX%2C%20Go%2C%20...-e74c3c?style=for-the-badge&logo=github)
@@ -61,7 +61,7 @@ I enjoy bridging the gap between software and the physical world.
 ### 📊 Commit Activity (Last 12 Months)
 ![Commit Activity](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Sep%2025%22%2C%22Oct%2025%22%2C%22Nov%2025%22%2C%22Dec%2025%22%2C%22Jan%2026%22%2C%22Feb%2026%22%2C%22Mar%2026%22%2C%22Apr%2026%22%2C%22May%2026%22%2C%22Jun%2026%22%2C%22Jul%2026%22%2C%22Aug%2026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B237%2C208%2C175%2C240%2C220%2C298%2C270%2C233%2C921%2C1182%2C555%2C4%5D%2C%22backgroundColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%200.8)%22%2C%22borderColor%22%3A%22rgba(54%2C%20162%2C%20235%2C%201)%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commit%20Activity%20-%20Last%2012%20Months%22%2C%22font%22%3A%7B%22size%22%3A18%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22ticks%22%3A%7B%22precision%22%3A0%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Number%20of%20Commits%22%7D%7D%2C%22x%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Month%22%7D%7D%7D%7D%7D&width=800&height=400&backgroundColor=white)
 
-*Last updated: 2026-08-07 01:18:26 UTC*
+*Last updated: 2026-08-08 00:21:38 UTC*
 <!-- GITHUB_STATS:END -->
 
 <p align="left">
