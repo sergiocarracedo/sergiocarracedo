@@ -14,6 +14,7 @@ With 20+ years of experience—from my first **Amstrad CPC464** 🕹️ to build
 
 I don't just chat with AI; I build systems that integrate it into the development lifecycle.
 
+- **[SirenoRELAY](https://github.com/sergiocarracedo/sireno-relay):** A token-authenticated **MCP** mail relay that gives AI agents policy-filtered access to email while keeping upstream credentials out of reach.
 - **[storybook-to-skill-md](https://github.com/sergiocarracedo/storybook-to-skill-md):** Automatically generates AI agent skill files from **React/Vue** component stories, converting **Storybook** documentation into **LLM-ready** SKILL.md format. Includes CLI tool and **GitHub Action**.
 - **[skill-organizer](https://github.com/sergiocarracedo/skill-organizer):** A **Go** CLI that keeps `SKILL.md` directories organized in nested folders while generating flat, agent-compatible skill trees for tools like **Claude Code**, **Codex**, and **OpenCode**.
 - **[Work Diary](https://github.com/sergiocarracedo/work-diary):** An open-source CLI tool to automate daily work summaries using **Gemini/OpenAI** and GitHub activity.
@@ -34,6 +35,7 @@ Expert in creating scalable UI libraries and complex data visualizations. (Only 
 
 I enjoy bridging the gap between software and the physical world.
 
+- **[Sireno Deck](https://github.com/sergiocarracedo/sireno-deck):** A **Node.js/TypeScript** CLI for driving an Elgato Stream Deck from YAML configuration, with an emulator and an addon API.
 - **[Home Assistant Cards](https://github.com/sergiocarracedo/sc-custom-cards):** Creating custom, minimalist area cards with integrated temperature/humidity Sparklines.
 - **NPM Veteran:** Maintaining 26+ packages, including `vue-use-model-helpers` and `git-publish`.
 
